@@ -133,4 +133,4 @@ This project is licensed under the MIT License.
 
 📧 Support
 For any issues or inquiries, feel free to reach out via email: 
-[Muhammad Kaif](muhammadkaif.dev8@gmail.com)
+[Muhammad Kaif](muhammadkaif.dev8@gmail.com).
