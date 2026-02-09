@@ -52,7 +52,7 @@ Follow these steps to set up and run the project:
 
 - Clone the repository using Git:
   ```bash
-  git clone https://github.com/Muhammad-SE-Eng/Face-Recognition-Attendance-System.git
+  git clone https://github.com/kaifGit/Face-Recognition-Attendance-System.git
   ```
   -Download zip file
 
@@ -134,4 +134,3 @@ This project is licensed under the MIT License.
 📧 Support
 For any issues or inquiries, feel free to reach out via email: 
 [Muhammad Kaif](muhammadkaif.dev8@gmail.com)
-[Ghulam Muhammad](siyalsb786@gmail.com)
